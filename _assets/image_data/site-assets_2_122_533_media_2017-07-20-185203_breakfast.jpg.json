@@ -1,0 +1,17 @@
+{
+  "name": "breakfast",
+  "file_name": "breakfast.jpg",
+  "file_type": "image/jpeg",
+  "url": "https://s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/2_122_533/media/2017-07-20-185203/breakfast.jpg",
+  "date_added": "2017-07-20-185210",
+  "tags": "",
+  "file_size": 1349789.0,
+  "width": 1400,
+  "height": 933,
+  "description": "",
+  "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/2_122_533/media/2017-07-20-185203/large_breakfast.jpg",
+  "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/2_122_533/media/2017-07-20-185203/medium_breakfast.jpg",
+  "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/2_122_533/media/2017-07-20-185203/small_breakfast.jpg",
+  "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/2_122_533/media/2017-07-20-185203/xsmall_breakfast.jpg",
+  "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/2_122_533/media/2017-07-20-185203/thumb_breakfast.jpg"
+}
